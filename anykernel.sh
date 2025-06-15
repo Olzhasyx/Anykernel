@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N0SecurityKernel by EmanuelCN & olzhas0986
+kernel.string=N0kernel Next by olzhas0986
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=munch
-device.name2=
+device.name2=munchin
 device.name3=
 device.name4=
 device.name5=
